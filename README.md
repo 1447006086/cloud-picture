@@ -1,4 +1,4 @@
-# 云图片后端
+# cloud-picture
 
 这是一个云图片存储和管理的后端服务。
 
@@ -12,4 +12,4 @@
 
 - Spring Boot
 - MyBatis Plus
-- 腾讯云对象存储 
+- 腾讯云对象存储
