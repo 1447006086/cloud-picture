@@ -1,0 +1,9 @@
+#对象存储配置
+# 对象存储配置（需要从腾讯云获取）
+cos:
+  client:
+    host: https://your-bucket.cos.your-region.myqcloud.com
+    secretId: YOUR_SECRET_ID
+    secretKey: YOUR_SECRET_KEY
+    region: your-region
+    bucket: your-bucket-name 
